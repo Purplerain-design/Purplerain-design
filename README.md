@@ -9,6 +9,7 @@ I'm currently working on academic projects and personal coding projects to impro
 - Java
 - Web Technologies( HTML, CSS, JavaScript)
 - C
+- PHP
 - Assembly
 
 **You're welcome to have a look on my projects.**
