@@ -10,6 +10,7 @@ I'm currently working on academic projects and personal coding projects to impro
 - Web Technologies( HTML, CSS, JavaScript)
 - C
 - PHP
+- ELM
 - Assembly
 
 **You're welcome to have a look on my projects.**
